@@ -50,7 +50,7 @@ global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot.git' //script 
 global.reactmoji = "❤" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
 global.packname = "⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "NIPUNA" //ur sticker watermark author
+global.author = "MITHUM" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
